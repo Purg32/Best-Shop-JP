@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /*Colors*/
+    --white-color: #FFFFFF;
+    --darker-white-color: #F7F7F7;
+    --light-gray-color:#E8E9ED;
+    --darker-gray-color: #00000029;
+    --gray-color: #A5A5A5;
+    --gray1-color: #95989A;
+    --dark-gray-color: #707070;
+    --light-blue-color: #07ACE629;
+    --blue-color: #08A6E4;
+    --darker-blue-color: #07ACE6;
+    --pale-pink-color: #FF091129;
+    --pale-pink1-color: #F9043629;
+    --pink-color: #FB3B64;
+    --pink1-color: #EB476E;
+    --green-color: #55DFB4;
+    --navy-color: #13253B;
+    --black-color: #000000;
+
+    /*Fonts*/
+    --Open-font: "Open Sans", sans-serif;
+    --Raleway-font: "Raleway", sans-serif;
+
+    --weight-300: 300;
+    --weight-400: 400;
+    --weight-700: 700;
+    --weight-800: 800;
+}
